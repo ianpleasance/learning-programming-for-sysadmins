@@ -1,8 +1,6 @@
-V0.95 - 1/8/16
+V1.00 - 14/10/16
 
 Learning Programming for Sysadmins
-
-[[TOC]]
 
 # Introduction - Why ?
 
@@ -85,8 +83,9 @@ When you look at IDEs focus on ones that support multiple languages, it’ll mak
 
 Suggestions: 
 
-    [JetBrains IDEs](https://www.jetbrains.com/products.html)
-    [Jupyter](http://jupyter.org/) is somewhere between a training tool and an IDE, it allows you to run code interactively, support various languages, and many of the common libraries. It’s a great tool to learn a language with.
+* [JetBrains IDEs](https://www.jetbrains.com/products.html)
+
+* [Jupyter](http://jupyter.org/) is somewhere between a training tool and an IDE, it allows you to run code interactively, support various languages, and many of the common libraries. It’s a great tool to learn a language with.
 
 There is a good comparison of IDEs [here](https://en.wikipedia.org/wiki/Comparison_of_integrated_development_environments).
 
