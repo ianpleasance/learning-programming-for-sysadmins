@@ -180,19 +180,25 @@ There are some beginners primers on Big O [here](https://justin.abrah.ms/compute
 You don’t need to be job-hunting to practice for programming interviews, interview sites will provide you with programming challenges that might include areas which you don’t normally work on.
 
 [https://www.interviewcake.com/python-interview-questions](https://www.interviewcake.com/python-interview-questions)
+
 Some python interview questions
+
 interviewcake.com also have a [mailing list](https://www.interviewcake.com/free-weekly-coding-interview-problem-newsletter) you can sign-up for to receive a weekly programming challenge. 
 
 [https://esalagea.wordpress.com/category/cracking-the-coding-interview-a-python-experience](https://esalagea.wordpress.com/category/cracking-the-coding-interview-a-python-experience)/
+
 Challenges from the book "Cracking the Coding Interview"
 
 [https://www.careercup.com/page?pid=python-interview-questions](https://www.careercup.com/page?pid=python-interview-questions)
+
 Some python interview questions
 
 [http://javarevisited.blogspot.co.uk/2015/01/top-20-string-coding-interview-question-programming-interview.html](http://javarevisited.blogspot.co.uk/2015/01/top-20-string-coding-interview-question-programming-interview.html)
+
 Some programming interview challenges, mainly string related.
 
 [http://www.mypythonquiz.com/question.php](http://www.mypythonquiz.com/question.php)
+
 A python Quiz
 
 * MeetUps.
@@ -214,7 +220,7 @@ Jon Bentley
 
 * [The Mythical Man Month: Essays on Software Engineering](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 
-Fredrick P. Brooks
+Fredrick P. Brooks.
 This talks more about the practice of software engineering process and project management, but it is a good read.
 
 * Structure and Interpretation of Computer Programs (2nd Edition)
@@ -224,12 +230,12 @@ This is a popular source book for Computer Science classes, but note that it tea
 
 * Design Patterns: Elements of Reusable Object-Oriented Software
 
-Erich Gamma, Richard Helm, Ralph Johnson, and John M. Vlissides
+Erich Gamma, Richard Helm, Ralph Johnson, and John M. Vlissides.
 A popular book for teaching Object Oriented programming, however note that it teaches using C and Smalltalk
 
 * The Pragmatic Programmer: From Journeyman to Master
 
-Andrew Hunt and David Thomas
+Andrew Hunt and David Thomas.
 A decent book for improving programming practices.
 
 # TL;DR
