@@ -181,9 +181,7 @@ You don’t need to be job-hunting to practice for programming interviews, inter
 
 [https://www.interviewcake.com/python-interview-questions](https://www.interviewcake.com/python-interview-questions)
 
-Some python interview questions
-
-interviewcake.com also have a [mailing list](https://www.interviewcake.com/free-weekly-coding-interview-problem-newsletter) you can sign-up for to receive a weekly programming challenge. 
+Some python interview questions. interviewcake.com also have a [mailing list](https://www.interviewcake.com/free-weekly-coding-interview-problem-newsletter) you can sign-up for to receive a weekly programming challenge. 
 
 [https://esalagea.wordpress.com/category/cracking-the-coding-interview-a-python-experience](https://esalagea.wordpress.com/category/cracking-the-coding-interview-a-python-experience)/
 
